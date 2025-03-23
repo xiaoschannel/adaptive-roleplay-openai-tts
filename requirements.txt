@@ -1,0 +1,6 @@
+openai
+pyaudio
+numpy
+openai[voice_helpers]
+websockets
+jinja2
